@@ -7,21 +7,8 @@
 Python 3.13+
 
 ## Установка
-Для Windows:
-git clone https://github.com/GnomGenome/digital-twin-soil/tree/main
-cd Цифровой_двойник
-python -m venv test_env
-test_env\Scripts\activate
-pip install -r Scripts/requirements.txt
-python Scripts/04_model_random_forest.py
-
-Для Mac/Linux:
-git clone https://github.com/GnomGenome/digital-twin-soil/tree/main
-cd Цифровой_двойник
-python -m venv test_env
-source test_env/bin/activate
-pip install -r Scripts/requirements.txt
-python Scripts/04_model_random_forest.py
+Для Windows используйте run.bat
+Для Mac OS/Linux используйте run.sh
 
 ## Структура
 
