@@ -6,7 +6,7 @@
 ## Требования
 Python 3.13+
 
-## Установка
+## Установка и запуск
 - Для Windows используйте run.bat
 - Для Mac OS/Linux используйте run.sh
 
@@ -23,10 +23,6 @@ Python 3.13+
 1. Скрипт 01
 2. Скрипт 03
 3. Scripts/04_model_random_forest.py
-
-## Запуск
-
-python Scripts/04_model_random_forest.py
 
 ## Результаты
 
