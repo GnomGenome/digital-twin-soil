@@ -21,7 +21,7 @@ cd digital-twin-soil
 python -m venv test_env
 source test_env/bin/activate
 ```
-- Windows (PowerShell)
+- Windows 
 ```bash
 python -m venv test_env
 test_env\Scripts\activate
