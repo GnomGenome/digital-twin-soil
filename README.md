@@ -7,8 +7,8 @@
 Python 3.13+
 
 ## Установка
-Для Windows используйте run.bat
-Для Mac OS/Linux используйте run.sh
+- Для Windows используйте run.bat
+- Для Mac OS/Linux используйте run.sh
 
 ## Структура
 
