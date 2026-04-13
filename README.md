@@ -27,8 +27,13 @@ python -m venv test_env
 test_env\Scripts\activate
 ```
 ### 3. Установка зависимостей
+- Mac/Linux
 ```bash
 pip install -r Scripts/requirements.txt
+```
+- Windows
+```bash
+pip install -r Scripts\requirements.txt
 ```
 ### 4. Запуск
 - Mac/Linux
