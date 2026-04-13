@@ -4,23 +4,24 @@
 Проект моделирует Shannon Index с использованием Random Forest.
 
 ## Требования
-Python 3.11+
-Разработка и тестирование проводились с версией Python 3.13
+Python 3.13+
 
 ## Установка
-
+Для Windows:
 git clone https://github.com/GnomGenome/digital-twin-soil/tree/main
 cd Цифровой_двойник
+python -m venv test_env
+test_env\Scripts\activate
+pip install -r Scripts/requirements.txt
+python Scripts/04_model_random_forest.py
 
-python -m venv venv
-
-Windows:
-venv\Scripts\activate
-
-Mac/Linux:
-source venv/bin/activate
-
-pip install -r requirements.txt
+Для Mac/Linux:
+git clone https://github.com/GnomGenome/digital-twin-soil/tree/main
+cd Цифровой_двойник
+python -m venv test_env
+source test_env/bin/activate
+pip install -r Scripts/requirements.txt
+python Scripts/04_model_random_forest.py
 
 ## Структура
 
